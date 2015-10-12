@@ -1,0 +1,26 @@
+{
+  "name": "afo-geoip-mmdat",
+  "version": "1.0.8",
+  "description": "MaxMind GeoIP Legacy Database Driver",
+  "main": "index.js",
+  "scripts": {
+    "example": "node ./examples/example.js"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "iconv-lite": "0.2.x",
+    "lodash": "1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zamnuts/afo-geoip-mmdat.git"
+  },
+  "keywords": [
+    "geoip",
+    "maxmind",
+    "ip lookup"
+  ],
+  "author": "Andrew Zammit",
+  "license": "LGPL-2.1",
+  "readmeFilename": "README.md"
+}
